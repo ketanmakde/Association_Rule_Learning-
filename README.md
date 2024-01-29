@@ -1,4 +1,4 @@
-# Association_Rule_Learning-
+# Association_Rule_Learning
 
 
 Association Rule Learning is a powerful technique in data mining and machine learning used to discover interesting relationships or patterns within large datasets. It is particularly popular in the context of market basket analysis, where the goal is to uncover associations between items that are frequently bought together. The most common algorithms for association rule learning include Apriori, FP-Growth, and Eclat.
